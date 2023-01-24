@@ -14,4 +14,8 @@ public class MainActivity extends AppCompatActivity {
 
         Toast.makeText(this, "3rd push", Toast.LENGTH_SHORT).show();
     }
+
+    public void tech(){
+
+    }
 }
